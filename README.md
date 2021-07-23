@@ -1,4 +1,4 @@
-# BigLab 2 - Class: 2021 AW1 M-Z
+# FULL STACK TODO LIST
 
 ## Team name: Web lasagne
 
