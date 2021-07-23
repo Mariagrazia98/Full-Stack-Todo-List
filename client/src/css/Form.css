@@ -1,0 +1,13 @@
+.form-check-input.is-valid~.form-check-label, .was-validated .form-check-input:valid~.form-check-label {
+    color: black;
+}
+input[type=date].form-control.is-valid, input[type=date].form-control.was-validated, input[type=date].form-control:valid{
+    border-color: #ced4da;
+    background-image: none;
+    padding-right: 0.5em;
+}
+
+#requiredField{
+    font-size: small;
+    margin-top: 10px;
+}

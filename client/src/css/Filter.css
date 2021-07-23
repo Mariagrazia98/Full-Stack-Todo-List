@@ -1,0 +1,3 @@
+.filter-item:not(.active):hover {
+  background-color: #90ddf03d;
+}
